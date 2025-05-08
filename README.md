@@ -1,7 +1,7 @@
 # Financial-Transaction-Dataset
 ![image](https://github.com/user-attachments/assets/ef983aef-b52b-49ba-8dca-439fe628e349)
 
-🧠 Data Source: This dataset is sourced from Kaggle and made available by Victor. It simulates realistic transaction behavior and fraud patterns for research, modeling, and dashboarding purposes.
+🧠 Data Source: This dataset is sourced from [Kaggle]([https://huggingface.co/datasets/lukebarousse/data_jobs](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)) and made available by Victor. It simulates realistic transaction behavior and fraud patterns for research, modeling, and dashboarding purposes.
 
 ---
 
